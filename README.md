@@ -10,8 +10,10 @@ It's also been merged into `marthlib`, you can look it up in `src/analysis/inner
 
 # Introduction
 
-The Gram-Schmidt process takes a set of n linearly independent vectors 
-as input and outputs a set of n orthogonal vectors which have the same span.
+In this file we introduce Gram-Schmidt Orthogonalization and Orthonormalization.
+
+The Gram-Schmidt process takes a set of vectors as input
+and outputs a set of orthogonal vectors which have the same span.
 
 # Main results
 
